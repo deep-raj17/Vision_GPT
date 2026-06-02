@@ -1,0 +1,4 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+vision_gpt_backend/Data/coco_captions/annotations/instances_train2017.json filter=lfs diff=lfs merge=lfs -text
+vision_gpt_backend/Data/coco_captions/annotations/captions_train2017.json filter=lfs diff=lfs merge=lfs -text
