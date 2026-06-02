@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDE/system
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Large model/training artifacts
+vision_gpt_backend/Output/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
