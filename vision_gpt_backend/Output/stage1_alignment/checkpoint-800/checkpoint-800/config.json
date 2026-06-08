@@ -1,0 +1,7 @@
+{
+  "llm_model_name": "openai/gpt-oss-20b",
+  "vision_encoder_type": "clip",
+  "projection_type": "mlp",
+  "llm_hidden_size": 2880,
+  "vision_hidden_size": 1024
+}

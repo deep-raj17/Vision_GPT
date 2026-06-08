@@ -16,8 +16,7 @@ Thumbs.db
 *.log
 *.tmp
 
-# Large model/training artifacts
-vision_gpt_backend/Output/
+# Large model/training artifacts (tracked via Git LFS)
 *.pt
 *.bin
 *.safetensors
